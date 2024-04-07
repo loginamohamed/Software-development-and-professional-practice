@@ -1,1 +1,7 @@
-# Software-development-and-professional-practice
+# TastyTracks [a mobile application for ordering and delivering food]
+
+  It's been solved! …If you resort to trying your luck in preparing biryani, guessing the ingredients of that dish, and buying quantities, then it is a dream for you to finally sit down and travel to another world because of its delicious taste that was spoiled by the smell of burnt food that failed to convince you that there is no benefit or hope!
+
+  TastyTracks is the perfect solution to encourage you to follow your dream of tasting delicious food again. That difficult decision to leave the house to get into your car and check the gasoline in anticipation of that long distance to go to that restaurant and back again while you gain fatigue, waste time, and increase the cost or your confidence in preparing that dish yourself while purchasing the ingredients and your lack of experience in estimating the quantity, that enormous effort that ends with black clouds in your kitchen!
+
+  TastyTracks is a mobile application that aims to help all types and categories of users serve the process of ordering and delivering food. The application gives you flexibility in choosing food through easy user interfaces that support a description of each dish and the quantity you want, attaching the price, the ability to support your site, and allowing you to track the delivery of the order with Your choice of the appropriate payment method with an unbeatable delivery price.
